@@ -1,4 +1,4 @@
-# psoriasis
+# My First Flutter App - A Flutter Demo
 
 A new Flutter project.
 
